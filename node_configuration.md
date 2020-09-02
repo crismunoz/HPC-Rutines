@@ -16,7 +16,7 @@ ssh-copy-id root@gpunode-1-4
 No nó
 ```bash
 apt-get update
-apt-get  build-essential install nfs-common htop
+apt-get install build-essential nfs-common htop
 ```
 Edit /etc/fstab with shared folders in cluster
 ```bash
