@@ -41,3 +41,8 @@ Storing signatures
 INFO:    Creating SIF file...
 Singularity>
 ```
+
+The results file will be saved in:
+```
+/root/.singularity/cache/oci-tmp/XXXXXX.sif
+```
